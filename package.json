@@ -1,0 +1,22 @@
+{
+  "name": "hexlet-js",
+  "version": "1.0.0",
+  "description": "Мой первый проект Хэкслет",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DrakoMalfust/-.git"
+  },
+  "author": "DanilYama",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DrakoMalfust/-/issues"
+  },
+  "homepage": "https://github.com/DrakoMalfust/-#readme",
+  "devDependencies": {
+    "lodash": "^4.17.23"
+  }
+}
