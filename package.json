@@ -1,23 +1,29 @@
 {
   "name": "hexlet-js",
   "version": "1.0.0",
-  "description": "Мой первый проект Хэкслет",
+  "description": "Учебное приложение на Node.js для практики работы с модулями",
   "main": "index.js",
   "scripts": {
-    "test": "echo "Error no test specified" && exit 1",
+    "test": "jest",
     "start": "node index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DrakoMalfust/-.git"
+    "url": "git+https://github.com/DrakoMalfust/hexlet-js.git"
   },
+  "keywords": [
+    "nodejs",
+    "hexlet",
+    "учебный проект"
+  ],
   "author": "DanilYama",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/DrakoMalfust/-/issues"
+    "url": "https://github.com/DrakoMalfust/hexlet-js/issues"
   },
-  "homepage": "https://github.com/DrakoMalfust/-#readme",
+  "homepage": "https://github.com/DrakoMalfust/hexlet-js#readme",
   "devDependencies": {
-    "lodash": "^4.17.23"
+    "lodash": "^4.17.23",
+    "prettier": "^3.8.1"
   }
 }
